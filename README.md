@@ -3,9 +3,9 @@
 
 ## 🌍 Real-World Scenario
 
-You're a DevOps Engineer at a fast-growing startup. Your team needs a scalable Kubernetes cluster to deploy a microservices-based application. You’ll automate the provisioning of an AWS EKS cluster using **Terraform**, set up **remote state management** with **S3 + DynamoDB**, and **automate deployments** via **Jenkins**.
-
+> At a fast-scaling SaaS company, the DevOps team was tasked with building a secure, scalable, and repeatable Kubernetes infrastructure for deploying microservices. To meet the growing demand for rapid development and deployment, the team automated the provisioning of an Amazon EKS cluster using **Terraform**, managing state securely via **S3 and DynamoDB**. They integrated this setup into a **CI/CD pipeline using Jenkins**, enabling seamless application deployments through GitOps practices. This approach reduced manual errors, ensured infrastructure consistency, and allowed developers to focus on building features while the platform team maintained reliability and scalability of the production environment.
 ---
+
 
 ## 📁 Project Structure
 
